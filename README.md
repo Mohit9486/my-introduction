@@ -5,6 +5,7 @@ my intro
     <head>
         <title>My Blog</title>
         <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+        <!--Good Work-->
     </head>
    
     <body>
@@ -99,7 +100,7 @@ progress::-webkit-progress-value {
     background: #3fb6b2;
 }
 progress::-moz-progress-bar {
-    color: #3fb6b2;
+    color: #3fb6b2;</
     background: #efefef;
 }
 iframe, audio {
