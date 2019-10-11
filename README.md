@@ -44,7 +44,7 @@ p {
     background-color: #fff;
     padding: 15px;
     margin-bottom: 10px;
-    border-radius: 10px;
+    border-radius: 9px;
 }
 #header {
     background-image: url("https://www.sololearn.com/Uploads/header.jpg");
