@@ -305,7 +305,7 @@ input, textarea {
         <div class="copyright">
             &copy; 2019 My Blog. All rights reserved.
         </div>
-       
+       <!--you write very good code-->
     </body>
 </html>
 
