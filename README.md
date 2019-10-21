@@ -189,7 +189,8 @@ input, textarea {
             <p>
                 Hey! I'm <strong>MOHIT AGARWAL</strong>. Coding has changed my world. It's not just about apps. Learning to code gave me <i>problem-solving skills</i> and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a better job.
                 </p>
-            <p class="quote">"written by MOHIT AGARWAL"</p>
+            <p> class="quote">"written by MOHIT AGARWAL"</p>
+            <!--nirbhay coder came here-->
         </div>
         <!-- About Me section end -->
        
