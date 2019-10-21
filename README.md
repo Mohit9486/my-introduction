@@ -192,7 +192,7 @@ input, textarea {
             <p class="quote">"written by MOHIT AGARWAL"</p>
         </div>
         <!-- About Me section end -->
-       
+       <!--this is for tshirt-->
         <!-- My Schedule section start -->
         <div class="section">
             <h1><span>My Coding Schedule</span></h1>
