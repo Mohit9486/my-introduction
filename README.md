@@ -5,7 +5,7 @@ my intro
     <head>
         <title>My Blog</title>
         <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
-        <!--Good Work-->
+        <!--Nice Work-->
     </head>
    
     <body>
