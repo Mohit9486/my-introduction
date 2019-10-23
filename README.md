@@ -6,6 +6,7 @@ my intro
         <title>My Blog</title>
         <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
         <!--Nice Work-->
+        <!--i think your work is excellent-->
     </head>
    
     <body>
