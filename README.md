@@ -19,7 +19,7 @@ body {
     font-family: 'Handlee', cursive;
     font-size: 13pt;
     background-color: #efefef;
-    padding: 10px;
+    padding: 9px;
     margin: 0;
 }
 h1 {
