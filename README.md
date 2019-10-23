@@ -274,7 +274,7 @@ input, textarea {
  
         <!-- Form section start -->
        <div class="section">
-            <h1><span>Contact Me</span></h1>
+            <h1><span>How to Reach Me</span></h1>
            
            
                 
