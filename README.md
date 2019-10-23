@@ -197,7 +197,7 @@ input, textarea {
        <!--this is for tshirt-->
         <!-- My Schedule section start -->
         <div class="section">
-            <h1><span>My Coding Schedule</span></h1>
+            <h1><span>My Programming Schedule</span></h1>
             <table>
                 <tr>
                     <th>Day</th>
