@@ -299,6 +299,7 @@ input, textarea {
                 </a>
                 <a href="#">
                     <img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png" />
+                    <!--logo used from sololearn-->
                 </a>
             </div>
         </div>
